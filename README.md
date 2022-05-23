@@ -8,7 +8,7 @@ The market for medical assistance apps is rapidly expanding - both for professio
 
 ### The Solution
 
-"Hale and Hearty" improvises the current solutions by integrating some of the most required features in a single application. Features such as 'Tracking daily water intake', 'Timely reminders for medicines', 'Health training programs', 'Calorie specific meal plans' and 'Relevant information about nearby Nutritionists and Health Centers' are present in this app. 
+"Hale and Hearty" improvises the current solutions by integrating some of the most required features in a single application. Features such as 'Tracking daily water intake', 'Timely reminders for medicines', 'Health training programs', 'Calorie specific meal plans' are present in this app. 
 
 Providing an easy to use interface with multiple features helps improve User Experience and this is what most of the apps lack these days. This is very important for people with recurring symptoms as it helps gain the users trust and helps them recover faster.
 
